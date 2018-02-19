@@ -10,6 +10,7 @@
 ## Venezuelan Liquor Prices
 
 File: price_index.csv
+
 ![02-19-2018](https://raw.githubusercontent.com/guerreroda/data/master/cpi.png)
 
 ### Methodology.
