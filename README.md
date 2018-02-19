@@ -8,6 +8,10 @@
 
 
 ## Venezuelan Liquor Prices
+
+File: price_index.csv
+![02-19-2018](https://raw.githubusercontent.com/guerreroda/data/price_index.png)
+
 ### Methodology.
 - An online Venezuelan liquor store is scraped daily for all its products and prices since July 2017. Week 2017-09-10 is missing for all values.
 - The dataset comprises a panel with i=3,411 and t=135 which is later resampled in weekly frequency using the last available value.
@@ -18,4 +22,4 @@
 -- *mid cost 15%:* 'ron-cacique-500-anos', 'ron-santa-teresa-1796', 'vino-la-huerta-merlot', 'vino-santa-carolina-cabernet'
 -- *high cost 5%:* 'whisky-black-label-media-botella-media-botella', 'whisky-chivas-regal-12-anos', 'ron-cacique-antiguo'
 
-The resulting data is uploaded as a .csv in github.
+Resulting data is uploaded as price_index.csv
