@@ -19,8 +19,25 @@ File: price_index.csv
 - From all products, 574 items have less than 2 missing value. 11 of those are selected as a bundle.
 - The following (arbitrary) weights were applied to construct a CPI:
 
--- *low cost liquor 80%:* 'cerveza-tovar-pilsen', 'vodka-bajo-cero', 'ron-cacique', 'ron-angostura'
--- *mid cost 15%:* 'ron-cacique-500-anos', 'ron-santa-teresa-1796', 'vino-la-huerta-merlot', 'vino-santa-carolina-cabernet'
--- *high cost 5%:* 'whisky-black-label-media-botella-media-botella', 'whisky-chivas-regal-12-anos', 'ron-cacique-antiguo'
+| Low Price (80%)  | Mid. Price (15%) | High Price (5%) |
+| ---------------- | ---------------- | --------------- |
+| 'cerveza-tovar-pilsen'  | 'ron-cacique-500-anos'  | 'whisky-black-label-media-botella-media-botella' |
+| 'vodka-bajo-cero' | 'ron-santa-teresa-1796'  | whisky-chivas-regal-12-anos' |
+| 'ron-cacique' | 'vino-la-huerta-merlot'  | 'ron-cacique-antiguo' |
+| 'ron-angostura' | 'vino-santa-carolina-cabernet'  | |
+
 
 Resulting data is uploaded as price_index.csv
+
+| Date | Index | Inf. |
+| ---- | ----- | ---- |
+| Jul-17 | 100.00 | NaN |
+| Aug-17 | 142.37 | 42% |
+| Sep-17 | 223.13 |	57% |
+| Oct-17 | 471.30 | 111% |
+| Nov-17 | 997.61 |	112% |
+| Dec-17 | 2,732.49 | 174% |
+| Jan-18 | 3,056.53 | 12% |
+| Feb-18* | 4,502.32 | 47% |
+
+(*) to date.
