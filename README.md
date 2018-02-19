@@ -1,6 +1,6 @@
 # Data
 
-**Author:** Diego Guerrero
+**Author:** Diego A. Guerrero
 
 **Last Edit:** 02/19/2018.
 
