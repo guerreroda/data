@@ -1,6 +1,9 @@
 # Data
 
-**Last Edit:** 02/19/2018
+**Author:** Diego Guerrero
+
+**Last Edit:** 02/19/2018.
+
 **NOTICE:** Content is freely available. All datasets are original content from ongoing projects. Please quote if used.
 
 
