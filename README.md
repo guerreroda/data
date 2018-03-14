@@ -11,7 +11,7 @@
 
 File: price_index.csv
 
-![02-19-2018](https://raw.githubusercontent.com/guerreroda/data/master/price_index.png)
+![CPI](https://raw.githubusercontent.com/guerreroda/data/master/price_index.png)
 
 ### Methodology.
 - An online Venezuelan liquor store is scraped daily for all its products and prices since July 2017. Week 2017-09-10 is missing for all values.
@@ -38,6 +38,7 @@ Resulting data is uploaded as price_index.csv
 | Nov-17 | 997.61 |	112% |
 | Dec-17 | 2,732.49 | 174% |
 | Jan-18 | 3,056.53 | 12% |
-| Feb-18* | 4,502.32 | 47% |
+| Feb-18 | 4,556.14 | 49% |
+| Mar-18* | 4,937.65 | 8% |
 
 (*) to date.
