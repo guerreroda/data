@@ -4,7 +4,7 @@
 
 **Last Edit:** 02/19/2018.
 
-**NOTICE:** All datasets are original content from ongoing projects available for free. Please make good use of it and quote.
+**NOTICE:** All datasets are original content, available for free. Please make good use of it and quote.
 
 
 ## Venezuelan Prices Tracker
@@ -16,7 +16,9 @@ File: price_index.csv
 ### Methodology.
 #### Liquor prices
 - An online Venezuelan liquor store is scraped daily for all its products and prices since July 2017. Week 2017-09-10 is missing for all values.
-- The dataset comprises a panel with i=3,411 and t=135 which is later resampled in weekly frequency using the last available value.
+- The dataset comprises a panel with i=3,411 and t=135, by this date.
+- There is attrition in products due scarcity and inventory. I keep track data for each item.
+- The data is resampled in weekly frequency.
 - From all products, 574 items have less than 2 missing value. 11 of those are selected as a bundle.
 - The following (arbitrary) weights were applied to construct a CPI:
 
